@@ -3,10 +3,31 @@ color: #FF0000;
 text-decoration: underline;
 }
 
+#intro{
+color: #0000ff;
+}
+
+}
+.spotlight {
+background-color: #FEFE22;
+}
+
+p a {
+color: #000000;
+}
+
+a:hover {
+background-color: #999999;
+}
+
 h1 {
 color: #00ff00;
-text-transform:uppercase; 
+text-transform:uppercase;
+margin:20px;
+padding:40px;
+border: 10px #000000 dashed; 
 }
+
 
 h2 {
 background-color: #888888;
